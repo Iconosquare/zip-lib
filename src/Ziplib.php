@@ -25,7 +25,7 @@ namespace Ziplib;
  *
  * @access  public
  */
-class zipfile
+class Ziplib
 {
     /**
      * Array to store compressed data
