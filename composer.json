@@ -11,10 +11,6 @@
             "homepage": "http://www.zend.com/codex.php?id=470&single=1"
         }
     ],
-	"require": {
-		"php": ">=5.3.0",
-		"ext-curl": "*"
-	},
     "autoload": {
         "psr-0": {
             "Ziplib\\": "src\/"
